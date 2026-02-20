@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+
+![WhatsApp Image 2026-02-17 at 10 16 58 PM](https://github.com/user-attachments/assets/edbe38ad-f052-49ed-af4d-a321f2e4d2d3)
+
+
+<imag src = "https://github.com/user-attachments/assets/edbe38ad-f052-49ed-af4d-a321f2e4d2d3" width = 200px height = 600px>
+
 <!--
 **Rithika1214/Rithika1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
